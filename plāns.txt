@@ -1,8 +1,0 @@
-
-
-
-Degvielas patēriņš (zinot iepriekššejo nobraukumu, vai zinot nobraukto km skaitu)
-Attālums, cik var nobruakt ar ielieto degvielu
-Izbrauciena cena
-Izbraucienā patērētā Degviela
-https://www.transpoco.com/knowledge/how-is-fuel-consumption-calculated
