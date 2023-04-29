@@ -1,4 +1,5 @@
 Degvielas Kalkulators
+
 Autors:Mārtiņš indāns
 Mērķis: Veikt svarīgākos degvielas aprēķinus.
 Paredzēts: ceļa satiksmes dalībniekiem, kas brauc ar iekšdedzes dzinējiem
