@@ -2,6 +2,9 @@
 
 ### Autors:Mārtiņš indāns
 ### Mērķis: Veikt svarīgākos degvielas aprēķinus.
+
+Problēma: Cilvēkiem sarada grūtības degvielas patēriņa aprēķināšana, izmaksu aprēķināšana un nobraucamā attāluma aprēķināšana 
+
 Paredzēts: ceļa satiksmes dalībniekiem, kas brauc ar iekšdedzes dzinējiem
 ###Funkcijas:
 •	Aprēķina degvielas patēriņu, zinot nobraukumu un ielietās degvielas daudzumu L
@@ -26,6 +29,8 @@ Paredzēts: ceļa satiksmes dalībniekiem, kas brauc ar iekšdedzes dzinējiem
 ```
 ### Plāni nākotnei: 🌌
 ```
-Papildus GUI (html, citās vidēs)
+•	Papildus GUI,
+•	Pārveidot citās valodās
 ```
-Formulas – Iegūtas veicot aprēķinus, Tika pārbaudītas ar https://fuel.io/ 
+Pamatformula iegūta https://www.transpoco.com/knowledge/how-is-fuel-consumption-calculated, pārējās pārveidotas
+Tika pārbaudītas ar https://fuel.io/  
