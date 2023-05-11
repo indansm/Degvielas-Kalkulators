@@ -22,5 +22,10 @@ Paredzēts: ceļa satiksmes dalībniekiem, kas brauc ar iekšdedzes dzinējiem
 •	Degvielas patēriņu, zinot tagadējo un iepriekšējo nobraukumu
 •	Iepriekšējo datu saglabāšana
 •	Iepriekšējo datu Izmantošana.
+
+```
+### Plāni nākotnei: 🌌
+```
+Papildus GUI (html, citās vidēs)
 ```
 Formulas – Iegūtas veicot aprēķinus, Tika pārbaudītas ar https://fuel.io/ 
