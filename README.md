@@ -7,9 +7,11 @@ Problēma: Cilvēkiem sarada grūtības degvielas patēriņa aprēķināšana, i
 
 Paredzēts: ceļa satiksmes dalībniekiem, kas brauc ar iekšdedzes dzinējiem
 ###Funkcijas:
+```
 •	Aprēķina degvielas patēriņu, zinot nobraukumu un ielietās degvielas daudzumu L
 •	Aprēķina ceļa attālumu, ko var nobraukt ar ielieto degvielu, zinot patēriņu L/100
 •	Aprēķina nepieciešamo degvielas daudzumu ceļam, zinot patēriņu L/100 un ceļa attālumu Km
+```
 ### Izmantošana:⛽
 ```
 1.	Atver aplikāciju
