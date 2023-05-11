@@ -11,8 +11,8 @@ def paterins():
     pat=(degv*100)/km
     Degvielas_pat_sk.config(text=f"{pat:.2f} l/100")
 
-# Laiks patērēts atkļūdošanā = 2h
-#sendhelp
+
+# sendhelp
 
 
 def nobrAtt():
@@ -82,6 +82,7 @@ KM_sk_label = tk.Label(NobrAtt, text="Nobraucamais attālums = ")
 KM_sk_label.grid(row=3, column=0)
 KM_sk = tk.Label(NobrAtt, text="")
 KM_sk.grid(row=3, column=1)
+# Ja tu šo tekstu pamani, iekliedzies "nabags"
 
 # tab 3
 notebook.add(NepDegv, text="Nepieciešamā Degviela")
